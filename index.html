@@ -4,6 +4,47 @@ title: Home
 ---
 
 <div class="posts">
+  <h2 class="post-title center">Welcome to the Team Eureka</h2>
+
+
+  <h2>Who We are?</h2>
+  <p>
+    Team Eureka #51206 is First Lego Leage Team. Team arose from the personal interest of Pranav, who is avid LEGO builder since age of 4. His keen interest in building complex LEGO models inspired Coaches Mahesh and Geetha to start this Team Eureka as FLL Explore team, which has evolved as FLL Challenge team bring in some high accoldaes for the team. 
+  </p>
+
+  <p>
+    Team Eureka team participates in the <a href="https://firstintexas.org">FIRST League Challenges</a> in Texas. It is part of a global robotics program that includes more than 480,000 kids in 110 countries. Team Eureka's involvement in FIRST events, has been bringing FIRST LEGO League Challenge to kids interested in participating since 2019.
+
+    Teams collaborate to build and program an autonomous robot to score points on a thematic playing surface (the Robot Game) and create an innovative solution to a problem correlating to the yearly theme (the Innovation Project), all guided by the FIRST Core Values. These elements make up what is called The Challenge.
+    
+    The theme of The Challenge changes every year and is based on a real-world scientific topic. Past challenges have included topics such as space, nanotechnology, biomedical, climate change, recycling, and transportation.
+  </p>
+
+  <h2>What we do?</h2>
+  
+  <p>
+    <b>The Robot Game</b>
+    Using a LEGO MINDSTORMS robot kit, a team designs, builds and programs an autonomous robot to achieve specific missions and earn points. Robots compete in three 2.5 minute rounds in an attempt to earn as many points as possible, and teams are evaluated on mechanical design, programming, and innovation & strategy.
+    
+    <b>The Innovation Project</b>
+    Teams conduct research to solve a real-world problem, develop an innovative solution, share their findings with community stakeholders, and present their work at the competition. They are evaluated in research, innovative solution and presentation.
+    
+    <b>Robot Design and Programming</b>
+    Teams build and program a LEGO MINDSTORMS robot (RCX, NXT, EV3 or Spike PRIME) and share their work at the competition. Teams are evaluated on their engineering process of both robot design and robot programming, explaining their design iterations and strategies.
+    
+    <b>Core Values</b>
+    The FIRST Core Values are the cornerstones of the program. Teams are evaluated on HOW they work together, as well as inspiration, teamwork and gracious professionalism.
+    
+  </p>
+
+  <p>
+    This team-based, hands-on, competitive robotics program provides challenging and exciting learning opportunities for young people. It spurs innovation, develops teamwork and leadership skills and promotes excitement in science and technology.     
+  </p>
+
+  
+  
+
+  
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
@@ -15,23 +56,7 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.content }}
+
   </div>
   {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
 </div>
