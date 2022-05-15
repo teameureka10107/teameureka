@@ -14,17 +14,6 @@
   font-family: lasenter;
   src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/707108/lasenter.ttf);
 }
-html,
-  body {
-    display: table;
-    height: 100%;
-    margin: 0;
-    overflow: hidden;
-    padding: 0;
-    width: 100%;
-  }
-
-
 
   .jackpots {
     background-color: #202020;
