@@ -3,13 +3,13 @@ layout: default
 title: Welcome to the Team Eureka
 ---
 
+
+
+
 <h1 class="post-title center">Welcome to the Team Eureka</h1>
-
-<div style="center">
-    <img src="{{ site.baseurl }}public/images/homepage-trohpy.jpeg"/>
-</div>
-
 ## Who We are?
+
+![]({{site.baseurl}}public/images/FLL-2022-World/IMG_1255.jpeg "2022 World Championship")
 
 **Team Eureka #51206 is student-led, community First Lego Leage Team**. Team arose from the personal interest of Pranav Maheshwaran, who is avid LEGO builder since age of 4. His keen interest in building complex LEGO models inspired Coaches Mahesh and Geetha to start this Team Eureka as <a href="/2020">FLL Explore team</a>, which has evolved as FLL Challenge team bring in some high accoldaes for the team. 
   
@@ -21,6 +21,9 @@ The theme of The Challenge changes every year and is based on a real-world scien
 
 
 ## Awards
+<div style="center">
+    <img src="{{ site.baseurl }}public/images/homepage-trohpy.jpeg"/>
+</div>
 
 #### 2022
 
@@ -50,7 +53,7 @@ Eureka inspires youth by promoting creativity, teamwork, and commitment to our c
 Using a LEGO MINDSTORMS or Inventor robot kit, a team designs, builds and programs an autonomous robot to achieve specific missions and earn points. Robots compete in three 2.5 minute rounds in an attempt to earn as many points as possible, and teams are evaluated on mechanical design, programming, and innovation & strategy.
 
 **The Innovation Project**
-
+ 
 Teams conduct research to solve a real-world problem, develop an innovative solution, share their findings with community stakeholders, and present their work at the competition. They are evaluated in research, innovative solution and presentation.
     
 **Robot Design and Programming**

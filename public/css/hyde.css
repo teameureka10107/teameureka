@@ -61,11 +61,11 @@ html {
 
  .center{
   margin: auto;
-  text-align: center;
+  /* text-align: center; */
 }
 
 .sidebar {
-  text-align: center;
+  /* text-align: center; */
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;

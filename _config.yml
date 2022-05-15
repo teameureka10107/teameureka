@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            'Eureka #51206'
+title:            'Eureka'
 tagline:          'A Jekyll theme'
-description:      'First Lego League team from Austin, Texas'
+description:      'First Lego League team - Austin, Texas'
 url:              https://www.teameureka.org
 baseurl:          /teameureka/
 
