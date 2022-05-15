@@ -11,7 +11,7 @@ title: Welcome to the Team Eureka
 
 ## Who We are?
 
-Team Eureka #51206 is student-led, community First Lego Leage Team. Team arose from the personal interest of Pranav Maheshwaran, who is avid LEGO builder since age of 4. His keen interest in building complex LEGO models inspired Coaches Mahesh and Geetha to start this Team Eureka as <a href="/2020">FLL Explore team</a>, which has evolved as FLL Challenge team bring in some high accoldaes for the team. 
+**Team Eureka #51206 is student-led, community First Lego Leage Team**. Team arose from the personal interest of Pranav Maheshwaran, who is avid LEGO builder since age of 4. His keen interest in building complex LEGO models inspired Coaches Mahesh and Geetha to start this Team Eureka as <a href="/2020">FLL Explore team</a>, which has evolved as FLL Challenge team bring in some high accoldaes for the team. 
   
 Team Eureka team participates in the <a href="https://firstintexas.org">FIRST League Challenges</a> in Texas. 
 
