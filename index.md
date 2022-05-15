@@ -13,9 +13,7 @@ title: Welcome to the Team Eureka
 
 **Team Eureka #51206 is student-led, community First Lego Leage Team**. Team arose from the personal interest of Pranav Maheshwaran, who is avid LEGO builder since age of 4. His keen interest in building complex LEGO models inspired Coaches Mahesh and Geetha to start this Team Eureka as <a href="/2020">FLL Explore team</a>, which has evolved as FLL Challenge team bring in some high accoldaes for the team. 
   
-Team Eureka team participates in the <a href="https://firstintexas.org">FIRST League Challenges</a> in Texas. 
-
-It is part of a global robotics program that includes more than 480,000 kids in 110 countries. Team Eureka's involvement in FIRST events, has been bringing FIRST LEGO League Challenge to kids interested in participating since 2019.
+Team Eureka team participates in the <a href="https://firstintexas.org">FIRST League Challenges</a> in Texas and World events. It is part of a global robotics program that includes more than 480,000 kids in 110 countries. Team Eureka's involvement in FIRST events, has been bringing FIRST LEGO League Challenge to kids interested in participating since 2019.
 
 Teams collaborate to build and program an autonomous robot to score points on a thematic playing surface (the Robot Game) and create an innovative solution to a problem correlating to the yearly theme (the Innovation Project), all guided by the FIRST Core Values. These elements make up what is called The Challenge.
 
@@ -49,7 +47,7 @@ Eureka inspires youth by promoting creativity, teamwork, and commitment to our c
 
 **The Robot Game** 
 
-Using a LEGO MINDSTORMS robot kit, a team designs, builds and programs an autonomous robot to achieve specific missions and earn points. Robots compete in three 2.5 minute rounds in an attempt to earn as many points as possible, and teams are evaluated on mechanical design, programming, and innovation & strategy.
+Using a LEGO MINDSTORMS or Inventor robot kit, a team designs, builds and programs an autonomous robot to achieve specific missions and earn points. Robots compete in three 2.5 minute rounds in an attempt to earn as many points as possible, and teams are evaluated on mechanical design, programming, and innovation & strategy.
 
 **The Innovation Project**
 
