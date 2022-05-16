@@ -1,4 +1,4 @@
-<div class="sidebar">
+<div class="sidebar sidebar-sticky">
   <div class="container ">
     <div class="sidebar-about">
       <div class="logo">
@@ -12,35 +12,17 @@
         </a>
       </h1>
       <h2 class="lead">
-          FIRST Lego League team #51206
+          FIRST Lego League team #51206 - Austin, Texas
       </h2>
-      <h3 class="lead">
-          Austin, Texas
-      </h3>
-
     </div>
-
-    {% comment %}
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-      {% endcomment %}
 
       <h3 class="sidebar-nav-item"></h3>
       <div class="jackpots"><a href="{{ site.baseurl }}2023-registration">2023 Season Registration</a></div>
+
+      <br/><br/>
+      <a  class="sidebar-nav-item" href="{{ site.baseurl }}#mission">Mission</a>
+      <a  class="sidebar-nav-item" href="{{ site.baseurl }}#what-we-do">What We do?</a>
+      <a  class="sidebar-nav-item" href="{{ site.baseurl }}#awards">Awards & Recognition</a>
 
       <h3 class="sidebar-nav-item">Seasons</h3>
       <a class="sidebar-nav-item" href="{{ site.baseurl }}2022-world-championship">2022 - World Championship</a>

@@ -27,10 +27,10 @@ The theme of The Challenge changes every year and is based on a real-world scien
 
 #### 2022
 
-* 2022 1st Place Championship Award - Central Texas zone
-* 2022 1st Place Robot Performance Award - Central Texas zone
-* 2022 Coach/Mentor Award - Austin, Texas
-
+* 2022 **Central Texas finalist** for World Championship @ Houston, Texas
+* 2022 **1st Place** Championship Award - Texas
+* 2022 **1st Place** Robot Performance Award - Texas
+* 2022 Best Coach/Mentor Award
 
 #### 2021
 
