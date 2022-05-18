@@ -11,7 +11,8 @@ title:            'Eureka'
 tagline:          'A Jekyll theme'
 description:      'First Lego League team - Austin, Texas'
 url:              https://www.teameureka.org
-baseurl:          /teameureka/
+baseurl:          /
+dev.baseurl:      /teameureka/
 
 
 github:
