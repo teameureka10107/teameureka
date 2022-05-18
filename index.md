@@ -11,14 +11,11 @@ title: Welcome to the Team Eureka
 
 ![]({{site.baseurl}}public/images/FLL-2022-World/IMG_1255.jpeg "2022 World Championship")
 
-**Team Eureka #51206 is student-led, community First Lego Leage Team**. Team arose from the personal interest of Pranav Maheshwaran, who is avid LEGO builder since age of 4. His keen interest in building complex LEGO models inspired Coaches Mahesh and Geetha to start this Team Eureka as <a href="/2020">FLL Explore team</a>, which has evolved as FLL Challenge team bring in some high accoldaes for the team. 
-  
-Team Eureka team participates in the <a href="https://firstintexas.org">FIRST League Challenges</a> in Texas and World events. It is part of a global robotics program that includes more than 480,000 kids in 110 countries. Team Eureka's involvement in FIRST events, has been bringing FIRST LEGO League Challenge to kids interested in participating since 2019.
+**Team Eureka #51206 is student-led, community First Lego Leage Team**.Team Eureka participates in the <a href="https://firstintexas.org">FIRST League Challenges</a> in Texas and World events. It is part of a global robotics program that includes more than 480,000 kids in 110 countries. Team Eureka's involvement in FIRST events, has been bringing FIRST LEGO League Challenge to kids interested in participating since 2019.
 
-Teams collaborate to build and program an autonomous robot to score points on a thematic playing surface (the Robot Game) and create an innovative solution to a problem correlating to the yearly theme (the Innovation Project), all guided by the FIRST Core Values. These elements make up what is called The Challenge.
+Teams collaborate to build and program an autonomous robot to score points on a thematic playing surface (the Robot Game) and create an innovative solution to a problem correlating to the yearly theme (the Innovation Project), all guided by the FIRST Core Values. These elements make up what is called The Challenge. The theme of The Challenge changes every year and is based on a real-world scientific topic. Past challenges have included topics such as space, nanotechnology, biomedical, climate change, recycling, and transportation.
 
-The theme of The Challenge changes every year and is based on a real-world scientific topic. Past challenges have included topics such as space, nanotechnology, biomedical, climate change, recycling, and transportation.
-
+Team Eureka arose from the personal interest of Pranav Maheshwaran, who is avid LEGO builder since age of 4. His keen interest in building complex LEGO models inspired Coaches Mahesh and Geetha to start this Team Eureka as <a href="/2020">FLL Explore team</a>, which has evolved as FLL Challenge team.
 
 ## Awards
 <div style="center">
