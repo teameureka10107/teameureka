@@ -9,7 +9,7 @@ title: Welcome to the Team Eureka
 <h1 class="post-title center">Welcome to the Team Eureka</h1>
 ## Who We are?
 
-![]({{site.baseurl}}public/images/FLL-2022-World/IMG_1255.jpeg "2022 World Championship")
+![](public/images/FLL-2022-World/IMG_1255.jpeg "2022 World Championship")
 
 **Team Eureka #51206 is student-led, community First Lego Leage Team**.Team Eureka participates in the <a href="https://firstintexas.org">FIRST League Challenges</a> in Texas and World events. It is part of a global robotics program that includes more than 480,000 kids in 110 countries. Team Eureka's involvement in FIRST events, has been bringing FIRST LEGO League Challenge to kids interested in participating since 2019.
 
