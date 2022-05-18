@@ -14,10 +14,6 @@ url:              https://www.teameureka.org
 baseurl:          /
 dev.baseurl:      /teameureka/
 
-
-github:
-  repo:           https://github.com/poole/hyde
-
 plugins:
   - jekyll-paginate
   - jekyll-gist
