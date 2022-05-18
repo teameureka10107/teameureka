@@ -19,7 +19,7 @@ Team Eureka arose from the personal interest of Pranav Maheshwaran, who is avid 
 
 ## Awards
 <div style="center">
-    <img src="{{ site.baseurl }}public/images/homepage-trohpy.jpeg"/>
+    <img src="/public/images/homepage-trohpy.jpeg"/>
 </div>
 
 #### 2022
