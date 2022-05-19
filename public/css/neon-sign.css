@@ -15,10 +15,11 @@
   src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/707108/lasenter.ttf);
 }
 
+
   .jackpots {
     background-color: #202020;
     font-family: moon;
-    font-size: 1.5vw;
+    font-size: 2rem;
     font-weight: bold;
     margin-left: 1vw;
   }

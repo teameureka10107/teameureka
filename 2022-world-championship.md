@@ -3,7 +3,8 @@ layout: page
 title: 2022 - World Championship, Houston, Texas
 ---
 
-**Team Eureka #51206 participated in the 2022 FIRST World Championship**. 
+**Team Eureka #51206 Finalist from Central Texas and invited to 2022 FIRST World Championship**. 
+
 ![](/public/images/FLL-2022-World/IMG_1255.jpeg "2022 World Championship")
 
 Team Eureka competed with about 100+ teams coming from 50+ countries.
