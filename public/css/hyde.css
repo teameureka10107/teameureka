@@ -72,6 +72,18 @@ html {
   height: max-content;
 }
 
+.sidebar-subpage{
+  /* position: fixed; */
+  /* top: 0; */
+  /* left: 0; */
+  /* bottom: 0; */
+  /* padding: 2rem 1rem; */
+  color: rgba(255,255,255);
+  background-color: #202020;
+  /* width: 18rem; */
+  text-align: left;  
+}
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -84,11 +96,11 @@ html {
 }
 
 /* Sidebar links */
-.sidebar a {
+.sidebar a, .sidebar-subpage a {
   color: #fff;
 }
 
-.sidebar .lead{
+.sidebar .lead, .sidebar-subpage .lead{
   color: #fff;
   margin-top: 0;
 }
