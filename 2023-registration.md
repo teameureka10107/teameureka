@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: subpage
 title: 2023 - Registration
 ---
 
@@ -7,7 +7,13 @@ title: 2023 - Registration
     <img src="/public/images/FLL-2023/2023-FIRST-Energize-logo.webp">
 </a>
 
-Our team is more excited this year to welcome enthusiastic, passionate, and eagerful young talents to work in the field of STEM and compete in the First LEGO League. There are many roles and responsibilities for young people to learn and contribute.
+## FIRST Energize 2023 EUREKA season starts: Aug 2022
+
+**Team Eureka welcomes diversity into the team.**
+
+**#TeamEureka #FIRSTInspires #FIRSTLikeAGirl #MoreThanRobots #FIRSTInTexas**
+
+Our team is more excited this year to welcome enthusiastic, passionate, and curious young talents to work in the field of STEM and compete in the First LEGO League. There are many roles and responsibilities for young people to learn and contribute.
 
 Engaging and Working with this team will provide an opportunity to 
 
@@ -16,8 +22,7 @@ Engaging and Working with this team will provide an opportunity to
 3. Performing extensive research and field study for solving a real-world problems.
 4. Participate in rigorous Presentation and Judging process.
 
-**Team Eureka welcomes diversity into the team.**
 
-#TeamEureka #YoungEngineers #FIRSTLikeAGirl #STEM #FIRSTInTexas
 
 ### [Fill this form to learn more about the team](https://docs.google.com/forms/d/e/1FAIpQLSdGyLOaNpF4UNYJOtsGkpz-_O6cH4iOulsTHgTPSot7fWppLg/viewform)
+

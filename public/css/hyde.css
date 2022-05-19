@@ -71,6 +71,7 @@ html {
   background-color: #202020;
   height: max-content;
 }
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;

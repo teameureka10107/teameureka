@@ -38,11 +38,6 @@ Team Eureka arose from the personal interest of Pranav Maheshwaran, who is avid 
 * 2020 Presentation Award - Austin, Texas
 
 
-## Mission
-
-Eureka inspires youth by promoting creativity, teamwork, and commitment to our community. We support and work for the cause of FIRST, and its mission by innovating solutions to technical challenges and publicly promoting science, technology, engineering and mathematics. Through our work as a team, we develop the skills necessary to become leaders of a dynamic and increasingly technology-dependent world.
-
-
 ## What we do?
 
 **The Robot Game** 

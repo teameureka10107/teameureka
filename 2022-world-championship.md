@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: subpage
 title: 2022 - World Championship, Houston, Texas
 ---
 
