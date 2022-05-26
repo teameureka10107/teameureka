@@ -11,7 +11,7 @@ title: 2023 - Registration
 
 **Team Eureka welcomes diversity into the team.**
 
-**#TeamEureka #FIRSTInspires #FIRSTLikeAGirl #MoreThanRobots #FIRSTInTexas**
+**[#FIRSTInspires](https://twitter.com/search?q=%23FIRSTInspires&src=typed_query&f=top) [#FIRSTLikeAGirl](https://twitter.com/search?q=%23FIRSTLikeAGirl) [#MoreThanRobots](https://twitter.com/search?q=%23morethanrobots&src=hashtag_click) [#FIRSTInTexas](https://twitter.com/FIRSTinTexas)**
 
 Our team is more excited this year to welcome enthusiastic, passionate, and curious young talents to work in the field of STEM and compete in the First LEGO League. There are many roles and responsibilities for young people to learn and contribute.
 
@@ -24,5 +24,9 @@ Engaging and Working with this team will provide an opportunity to
 
 
 
-### [Fill this form to learn more about the team](https://docs.google.com/forms/d/e/1FAIpQLSdGyLOaNpF4UNYJOtsGkpz-_O6cH4iOulsTHgTPSot7fWppLg/viewform)
+### [Fill this form to register for 2022-2023 - Energize Season](https://docs.google.com/forms/d/e/1FAIpQLSdGyLOaNpF4UNYJOtsGkpz-_O6cH4iOulsTHgTPSot7fWppLg/viewform)
 
+#### Questions email <a href="mailto:info@teameureka.org">info@teameureka.org</a>
+
+#### Note: Location of the team - Avery Ranch/Heritage Oaks - 78717
+Please make sure that you are able to commute to this place for complete season
