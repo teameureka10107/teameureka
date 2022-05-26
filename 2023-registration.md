@@ -20,7 +20,7 @@ Engaging and Working with this team will provide an opportunity to
 1. Learn to build machines using LEGO that performs many complex tasks.
 2. Work on Innovative solutions to complex real-world problems.
 3. Performing extensive research and field study for solving a real-world problems.
-4. Participate in rigorous Presentation and Judging process.
+4. Participate in Presentation and Judging process at local and regional events.
 
 
 
