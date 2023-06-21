@@ -29,6 +29,13 @@ My LEGO passion and unwavering commitment to my team have earned me some sparkli
 * 2021 - FLL - Robot Design Award, Texas, USA
 * 2020 - FLL - Presentation Award, Austin, USA
 
+## My Roles
+
+* Lead Engineer in FLL Team Eureka - Design, Build and Code Robots
+* Founding member of FLL Team Eureka
+* Lead technician in FLL competition
+* Instructor (aka Mentor) for new members who wants to learn about LEGO Robotics
+
 ## Some pics...
 
 <div class="image-gallery">
