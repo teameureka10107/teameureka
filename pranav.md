@@ -12,6 +12,8 @@ Enthusiastic in LEGO, powered by STEAM, steered by robotics, engineered with mac
 
 It's Pranav Maheshwaran, your friendly neighborhood sixth-grade [STEAM](https://en.wikipedia.org/wiki/STEAM_fields) student, and a hardcore robotics aficionado. I wear many hats, not the least of which is the cap of a founding member, chief problem solver, and primary innovation wizard for the famous Team Eureka 51206, which competes fiercely in the Lego jungle of the First Lego League (FLL). Our creative engines churn out ingenious projects that tackle real-world problems, from championing physical exercise to fine-tuning delivery bots and extending a robotic hand to disaster-struck regions. Our techno-magic has even launched us into the FIRST World Championship in Houston, a feat that fuels my pride and dreams.
 
+<img  src="/public/images/Pranav/Pranav17.jpg" style="height:60%; width:60%;" class="center">
+
 From the moment I got my first LEGO brick and flirted with the charming MINDSTORMS, I've clocked over **3500 hours** on FLL-specific missions, and a **whopping 7000 hours** (since my LEGO initiation) getting my hands dirty with system beauties like EV3, Spike, and Robot Inventor.
 
 Architectural marvels and mammoth LEGO constructions? Count me in! My brick portfolio boasts the mighty Colosseum and the majestic UCS Millennium Falcon. I've also got my fingers well-oiled in assembling the tricky LEGO TECHNIC models, including the mighty Lego Liebherr, the high-flying Lego Rough Terrain Crane, and the earth-munching Lego Bucketwheel Excavator.
@@ -41,20 +43,24 @@ My LEGO passion and unwavering commitment to my team have earned me some sparkli
 <div class="image-gallery">
     <div class="grid-container">
     <div>
+        <img class='grid-item grid-item-10' src='/public/images/Pranav/Pranav11.jpg' alt=''>
+        <p>"Teaching kids to build"</p>
+    </div>
+    <div>
+        <img class='grid-item grid-item-10' src='/public/images/Pranav/Pranav12.jpg' alt=''>
+        <p>"Teaching them to code"</p>
+    </div>
+    <div>
+        <img class='grid-item grid-item-8' src='/public/images/Pranav/Pranav8.jpg' alt=''>
+        <p>"Teaching something robot..."</p>
+    </div>
+    <div>
         <img class='grid-item grid-item-10' src='/public/images/Pranav/Pranav16.png' alt=''>
         <p>"Teaching the class"</p>
     </div>
     <div>
-        <img class='grid-item grid-item-2' src='/public/images/Pranav/Pranav2.jpg' alt=''>
-        <p>"Building space city"</p>
-    </div>
-    <div>
         <img class='grid-item grid-item-3' src='/public/images/Pranav/Pranav3.jpg' alt=''>
         <p>"Representing USA in World Competition"</p>
-    </div>
-    <div>
-        <img class='grid-item grid-item-4' src='/public/images/Pranav/Pranav4.jpg' alt=''>
-        <p>"LEGO Mark Twain"</p>
     </div>
     <div>
         <img class='grid-item grid-item-5' src='/public/images/Pranav/Pranav5.jpg' alt=''>
@@ -69,24 +75,12 @@ My LEGO passion and unwavering commitment to my team have earned me some sparkli
         <p>"Large bridge"</p>
     </div>
     <div>
-        <img class='grid-item grid-item-8' src='/public/images/Pranav/Pranav8.jpg' alt=''>
-        <p>"Teaching something robot..."</p>
-    </div>
-    <div>
         <img class='grid-item grid-item-9' src='/public/images/Pranav/Pranav9.jpg' alt=''>
         <p>"Calculating turning distance..."</p>
     </div>
     <div>
         <img class='grid-item grid-item-10' src='/public/images/Pranav/Pranav10.jpg' alt=''>
         <p>"Fixing a model"</p>
-    </div>
-    <div>
-        <img class='grid-item grid-item-10' src='/public/images/Pranav/Pranav11.jpg' alt=''>
-        <p>"Teaching kids to build"</p>
-    </div>
-    <div>
-        <img class='grid-item grid-item-10' src='/public/images/Pranav/Pranav12.jpg' alt=''>
-        <p>"Teaching them to code"</p>
     </div>
     <div>
         <img class='grid-item grid-item-10' src='/public/images/Pranav/Pranav13.jpg' alt=''>
@@ -99,6 +93,14 @@ My LEGO passion and unwavering commitment to my team have earned me some sparkli
     <div>
         <img class='grid-item grid-item-10' src='/public/images/Pranav/Pranav15.png' alt=''>
         <p>"Dis my fren!"</p>
+    </div>
+    <div>
+        <img class='grid-item grid-item-2' src='/public/images/Pranav/Pranav2.jpg' alt=''>
+        <p>"Building space city"</p>
+    </div>
+    <div>
+        <img class='grid-item grid-item-4' src='/public/images/Pranav/Pranav4.jpg' alt=''>
+        <p>"LEGO Mark Twain"</p>
     </div>
     </div>
 </div>
