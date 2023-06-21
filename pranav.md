@@ -4,7 +4,7 @@ title: I am Pranav...
 ---
 
 <p style="text-align:center;font-style: italic;">
-Enthusiastic in LEGO, powered by STEAM, steered by robotics, engineered with machines, and driven by a heart for volunteering
+Enthusiastic in LEGO, powered by STEAM, steered by robotics, engineered with machines, and driven by a heart for mentoring.
 </p>
 
 <img  src="/public/images/Pranav/Pranav1.jpg" style="height:60%; width:60%;" class="center">
