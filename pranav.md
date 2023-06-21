@@ -20,7 +20,16 @@ When I'm not lost in my LEGO wonderland, I play the mentor role, passing the LEG
 
 My LEGO passion and unwavering commitment to my team have earned me some sparkling medals at the Qualifiers and Regionals, including the coveted Champion’s 1st Place and dual honors of 1st and 3rd places in Robot Design in the State Festival. My MOC (My Own Creation) exploits run the gamut from robotic arms, Rough Terrain Explorers, auto-defense turrets to full-blown battleships, with my 6ft pride and joy – the replica of the IJN Yamato being the crown jewel.
 
+## Awards
 
+* 2023 - FLL - Robot Design Award, Texas, USA
+* 2022 - FLL - World Championship Finalist (Texas), USA
+* 2022 - FLL - Regionals Champion (Texas), USA
+* 2022 - FLL - Robot Performance Award, USA
+* 2021 - FLL - Robot Design Award, Texas, USA
+* 2020 - FLL - Presentation Award, Austin, USA
+
+## Some pics...
 
 <div class="image-gallery">
     <div class="grid-container">
