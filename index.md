@@ -22,6 +22,13 @@ Team Eureka arose from the personal interest of Pranav Maheshwaran, who is avid 
     <img src="/public/images/homepage-trohpy.jpeg"/>
 </div>
 
+#### 2023
+
+* 2023 **1st Place** - Robot Design Award - State Level (Texas)
+* 2023 **2nd Place** - Regional Championship - Qualifer for State
+* 2023 **1st Place** - Champions Award - Austin Qualifier for Regionals
+* 2023 **1st Place** - Robot Performance - Austin Qualifier for Regionals
+
 #### 2022
 
 * 2022 **Central Texas finalist** for World Championship @ Houston, Texas
