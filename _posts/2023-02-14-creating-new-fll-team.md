@@ -1,4 +1,9 @@
-## **Guide to forming a new FIRST Lego League team**
+---
+layout: subpage
+title: Guide to build new FIRST Lego League team
+---
+
+## Guide to build new FIRST Lego League team
 
 ![](/public/images/kids-team.png "FLL Team")
 
@@ -6,7 +11,7 @@ Forming a successful FLL (FIRST Lego League) team requires a combination of dedi
 
 You can also use this guide to induct any new team members and incorporate them into the existing team.
 
-## **Hiring**
+## Hiring
 
 **1. Skillset:** Look for individuals with a mix of technical and non-technical skills. While knowledge in robotics and programming is essential, soft skills like communication, teamwork, and problem-solving are equally important.
 
@@ -18,7 +23,7 @@ You can also use this guide to induct any new team members and incorporate them 
 
 Sometimes you have to build a flyer and send out flyers to attract interested candidates. Also, you can have a Google Forms sign-up sheet and ask questions about what kind of skill sets and experience they are bringing to the table.
 
-## **Setting expectations**
+## Setting expectations
 
 **1. Commitment:** Every team member should understand the time and effort required. Regular meetings, practice sessions, and competitions can be time-consuming.
 
@@ -28,11 +33,11 @@ Sometimes you have to build a flyer and send out flyers to attract interested ca
 
 **4. Respect:** Foster an environment where every team member feels valued and heard. Respect for each other's ideas and opinions is crucial.
 
-## **Team size**
+## Team size
 
 The ideal team size for FLL is between 5 to 10 members. This size ensures that every member has a role and can contribute effectively. Too few members might lead to an overwhelming workload, while too many can lead to coordination challenges and members feeling left out.
 
-## **Roles**
+## Roles
 
 **1. Team Captain:** Leads the team, ensures that everyone is on track, and acts as the primary spokesperson during competitions.
 
@@ -52,11 +57,11 @@ The ideal team size for FLL is between 5 to 10 members. This size ensures that e
 
 Remember, roles can be fluid, and team members can wear multiple hats. The key is to ensure everyone has a clear understanding of their responsibilities and feels empowered to contribute to the team's success.
 
-## **Ice Breakers and Team Building Games**
+## Ice Breakers and Team Building Games
 
 Building a cohesive and collaborative FLL team requires more than just technical skills. It's essential to foster a sense of camaraderie and trust among team members. Ice breakers and team-building games can help break down barriers, encourage communication, and create a positive team environment.
 
-### **Ice Breakers:**
+### Ice Breakers
 
 **1. Two Truths and a Lie:** Each member shares two true facts about themselves and one false one. The rest of the team tries to guess which one is the lie.
 
@@ -64,7 +69,7 @@ Building a cohesive and collaborative FLL team requires more than just technical
 
 **3. Name Bingo:** Create bingo cards with different characteristics or experiences (e.g., "Has been to a robotics competition before", "Loves to code", "Has a pet dog"). Team members mingle and try to find people who match the descriptions to fill their card.
 
-### **Team Building Games:**
+### Team Building Games
 
 **1. Blindfolded LEGO Build:** In pairs, one person is blindfolded and tries to build a specific LEGO structure while the other person gives verbal instructions without touching the LEGO pieces.
 
