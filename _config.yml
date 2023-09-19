@@ -14,6 +14,11 @@ url:              https://www.teameureka.org
 baseurl:          /
 dev.baseurl:      /teameureka/
 
+collections:
+  fll_docs:
+    output: true
+    permalink: /fll/:path/
+
 plugins:
   - jekyll-paginate
   - jekyll-gist
