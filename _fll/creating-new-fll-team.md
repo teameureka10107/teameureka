@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Guide to build new FIRST Lego League team
+author: Pranav Maheshwaran
+article_date: 02/03/2023
 ---
 
 ![](/public/images/kids-team.png "FLL Team")
