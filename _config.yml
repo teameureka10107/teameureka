@@ -15,7 +15,7 @@ baseurl:          /
 dev.baseurl:      /teameureka/
 
 collections:
-  fll_docs:
+  fll:
     output: true
     permalink: /fll/:path/
 
