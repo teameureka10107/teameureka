@@ -3,8 +3,6 @@ layout: post
 title: Guide to build new FIRST Lego League team
 ---
 
-## Guide to build new FIRST Lego League team
-
 ![](/public/images/kids-team.png "FLL Team")
 
 Forming a successful FLL (FIRST Lego League) team requires a combination of dedicated individuals, clear goals, and a supportive environment. The foundation of the team is built on shared values and a commitment to learning and collaboration.
