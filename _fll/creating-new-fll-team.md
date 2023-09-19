@@ -84,4 +84,3 @@ Building a cohesive and collaborative FLL team requires more than just technical
 Incorporating these activities into your team's routine, especially in the early stages, can help members get to know each other better, understand each other's strengths and weaknesses, and work more effectively as a unit.
 
 ----
-_Published: 02/03/2023_
