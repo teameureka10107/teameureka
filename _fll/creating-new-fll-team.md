@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: post
 title: Guide to build new FIRST Lego League team
 ---
 
