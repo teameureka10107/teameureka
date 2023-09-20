@@ -8,8 +8,7 @@ preview_image: /public/images/fll-corevalues.png
 
 ---
 
-
-![](public/images/team-eureka-2023-team.JPG "FLL Team")
+![](public/images/fll-corevalues.png "FLL Team")
 
 ## Resources
 
