@@ -5,7 +5,6 @@ author: Team Eureka
 article_date: 02/03/2023
 blurb: Essential guides for acing your First LEGO League Challenge team journey.
 preview_image: /public/images/fll-corevalues.png
-
 ---
 
 ![](public/images/fll-corevalues.png "FLL Team")
