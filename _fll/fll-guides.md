@@ -7,7 +7,7 @@ blurb: Essential guides for acing your First LEGO League Challenge team journey.
 preview_image: /public/images/fll-corevalues.png
 ---
 
-![](/public/images/fll-corevalues.png "FLL Team")
+<img src="/fll-team-image-v1.jpg" width="80%">
 
 ## Resources
 
