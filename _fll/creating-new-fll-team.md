@@ -7,80 +7,58 @@ article_date: 02/03/2023
 
 ![](/public/images/kids-team.png "FLL Team")
 
-Forming a successful FLL (FIRST Lego League) team requires a combination of dedicated individuals, clear goals, and a supportive environment. The foundation of the team is built on shared values and a commitment to learning and collaboration.
+Want to start an epic FLL (FIRST Lego League) team? Let's dive into the essentials, with a mix of professionalism, a hint of fun, and a whole lot of team spirit.
 
-You can also use this guide to induct any new team members and incorporate them into the existing team.
+## Scouting for Teammates
 
-## Hiring
+- **Skills:** We're on the hunt for both tech gurus and those who just gel well with others. While coding skills are a major plus, being able to communicate and collaborate is equally crucial. It's all about balance.
+  
+- **STEM Lovers:** Passion for science, tech, engineering, and math is key. When you're genuinely excited about STEM, you're more likely to pour your heart and soul into the projects, making them shine.
 
-**1. Skillset:** Look for individuals with a mix of technical and non-technical skills. While knowledge in robotics and programming is essential, soft skills like communication, teamwork, and problem-solving are equally important.
+- **Diversity:** A diverse team is like a melting pot of ideas. By bringing together people of different genders, ages, backgrounds, and experiences, we ensure a rich blend of perspectives that can lead to innovative solutions.
 
-**2. Passion for STEM:** A genuine interest in science, technology, engineering, and math will drive team members to invest time and effort into their projects.
+- **Been There, Done That:** Experience isn't a must, but it's a definite bonus. Those who've been in FLL or robotics before can share their insights, guide new members, and help the team tackle challenges head-on.
 
-**3. Diversity:** A diverse team brings different perspectives, ideas, and solutions to the table. Consider diversity in terms of gender, age, background, and experience.
+> And if you're struggling to gather a crew, consider creating a catchy flyer or a Google Forms sign-up sheet. It's a great way to see who's interested and what they bring to the table.
 
-**4. Previous Experience:** While not a necessity, having team members with prior FLL or robotics experience can be beneficial. They can provide insights, mentor newer members, and help navigate challenges.
+## Setting the Vibe
 
-Sometimes you have to build a flyer and send out flyers to attract interested candidates. Also, you can have a Google Forms sign-up sheet and ask questions about what kind of skill sets and experience they are bringing to the table.
+1. **Commitment:** Being part of an FLL team is a commitment. From regular meetings to practice sessions and competitions, everyone should be ready to invest time and energy.
 
-## Setting expectations
+2. **Teamwork Makes the Dream Work:** A successful team thrives on collaboration. Every member's input is invaluable, and decisions should be a collective effort, ensuring everyone's on the same page.
 
-**1. Commitment:** Every team member should understand the time and effort required. Regular meetings, practice sessions, and competitions can be time-consuming.
+3. **Learning on the Go:** Everyone makes mistakes, but they're just stepping stones. Adopting a growth mindset means viewing challenges as learning opportunities, helping the team evolve and improve.
 
-**2. Collaboration:** Emphasize the importance of teamwork. Every member's input is valuable, and decisions should be made collectively.
+4. **Respect:** A respectful environment is non-negotiable. Every team member should feel valued, and their ideas and opinions should be heard and considered.
 
-**3. Continuous Learning:** Mistakes and failures are part of the learning process. Encourage a growth mindset where team members view challenges as opportunities to learn and grow.
+## Team Dynamics
 
-**4. Respect:** Foster an environment where every team member feels valued and heard. Respect for each other's ideas and opinions is crucial.
+A sweet spot for team size is between 5 to 10 members. This ensures everyone has a role without feeling overwhelmed or left out.
 
-## Team size
+## Who Does What?
 
-The ideal team size for FLL is between 5 to 10 members. This size ensures that every member has a role and can contribute effectively. Too few members might lead to an overwhelming workload, while too many can lead to coordination challenges and members feeling left out.
+- **Team Captain:** This person is the team's anchor, ensuring everyone stays on track. They also represent the team during competitions, making sure the team's hard work shines through.
+- **Robot Designer:** This role is all about creativity and functionality. They focus on designing and building a robot that's ready to face any challenge head-on.
+- **Programmer:** The tech whiz of the group. They're in charge of coding the robot, ensuring it moves and operates seamlessly.
+- **Researcher:** They're the team's detective, diving deep into the FLL theme, gathering info, and helping shape a project that's both relevant and impactful.
+- **Strategist:** With a keen eye for detail, they analyze the game board, pinpointing key missions and plotting the robot's moves to maximize points.
+- **Presenter:** They're the voice of the team, ensuring the project is presented clearly and engagingly during competitions.
+- **Documenter:** Keeping track of the team's journey is crucial. From decisions made to changes in strategy, they ensure everything's documented for reflection and review.
+- **Mentor/Coach:** An experienced guide, they provide insights, keep the team on track, and handle logistics like competition registration.
 
-## Roles
+> Roles can be flexible, but clarity is key. Everyone should know their responsibilities and feel confident in their contribution.
 
-**1. Team Captain:** Leads the team, ensures that everyone is on track, and acts as the primary spokesperson during competitions.
+## Breaking the Ice and Bonding
 
-**2. Robot Designer:** Focuses on the design and construction of the robot, ensuring it's optimized for the challenges.
+### Ice Breakers:
 
-**3. Programmer:** Responsible for coding the robot's actions using the LEGO MINDSTORMS software or other compatible platforms.
+1. **Two Truths and a Lie:** A fun way to get to know each other. Each member shares two truths and one fib about themselves, and the rest guess the lie. It's a great way to share laughs and learn fun facts about teammates.
+2. **LEGO Story:** A creative challenge where everyone gets a few LEGO pieces, builds something unique, and then shares the story or inspiration behind their creation.
 
-**4. Researcher:** Delves into the annual FLL theme, gathers relevant information, and helps the team develop a project related to the theme.
+### Team Building Games:
 
-**5. Strategist:** Analyzes the game board, identifies the most valuable missions, and helps plan the robot's actions during the competition.
+1. **Blindfolded LEGO Build:** This game tests communication and trust. One person builds blindfolded, guided only by their partner's verbal instructions.
+2. **Human Knot:** A physical challenge that promotes teamwork. The goal is to untangle a human knot without letting go of each other's hands.
+3. **Robot Relay:** A test of coordination and collaboration. Team members guide a robot through an obstacle course, passing controls from one member to the next.
 
-**6. Presenter:** Takes the lead in presenting the team's project during competitions, ensuring the message is clear and engaging.
-
-**7. Documenter:** Keeps track of the team's progress, decisions, and iterations. This role is crucial for reflecting on the team's journey and for preparing the engineering notebook or any other required documentation.
-
-**8. Mentor/Coach:** An adult or experienced individual who guides the team, provides insights, and ensures the team stays on track. They also handle logistics like registering for competitions and organizing travel.
-
-Remember, roles can be fluid, and team members can wear multiple hats. The key is to ensure everyone has a clear understanding of their responsibilities and feels empowered to contribute to the team's success.
-
-## Ice Breakers and Team Building Games
-
-Building a cohesive and collaborative FLL team requires more than just technical skills. It's essential to foster a sense of camaraderie and trust among team members. Ice breakers and team-building games can help break down barriers, encourage communication, and create a positive team environment.
-
-### Ice Breakers
-
-**1. Two Truths and a Lie:** Each member shares two true facts about themselves and one false one. The rest of the team tries to guess which one is the lie.
-
-**2. LEGO Story:** Provide each member with a few random LEGO pieces. Ask them to build something in a short time (e.g., 5 minutes) and then share a story about their creation.
-
-**3. Name Bingo:** Create bingo cards with different characteristics or experiences (e.g., "Has been to a robotics competition before", "Loves to code", "Has a pet dog"). Team members mingle and try to find people who match the descriptions to fill their card.
-
-### Team Building Games
-
-**1. Blindfolded LEGO Build:** In pairs, one person is blindfolded and tries to build a specific LEGO structure while the other person gives verbal instructions without touching the LEGO pieces.
-
-**2. Human Knot:** Team members stand in a circle, reach out, and grab two different hands from people across the circle. The challenge is to untangle the knot without letting go of the hands.
-
-**3. Robot Relay:** Set up a simple obstacle course. Team members must guide a robot through the course, but each person can only control the robot for a short distance before passing the controls to the next member.
-
-**4. Tower Challenge:** Using only a set amount of materials (e.g., LEGO bricks, paper, tape), teams compete to build the tallest tower in a limited time.
-
-**5. Problem-Solving Scenarios:** Present the team with a hypothetical FLL-related challenge (e.g., a malfunctioning robot or a disagreement about strategy). Have them discuss and come up with solutions collaboratively.
-
-Incorporating these activities into your team's routine, especially in the early stages, can help members get to know each other better, understand each other's strengths and weaknesses, and work more effectively as a unit.
-
-----
+> Incorporate these activities early on, and you'll have a tight-knit, efficient team in no time. Now, gear up and let's make some LEGO magic happen! 🤖🌟
