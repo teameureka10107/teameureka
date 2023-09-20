@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: subpage
 title: Building your LEGO Robot for FLL Challenge competition
 author: Pranav Maheshwaran
 article_date: 02/14/2023

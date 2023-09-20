@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: subpage
 title: Useful FLL Resources
 author: Team Eureka
 article_date: 02/03/2023

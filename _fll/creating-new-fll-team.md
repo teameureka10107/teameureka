@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: subpage
 title: Guide to build new FIRST Lego League team
 author: Pranav Maheshwaran
 article_date: 02/03/2023
