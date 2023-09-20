@@ -4,10 +4,10 @@ title: Useful FLL Resources
 author: Team Eureka
 article_date: 02/03/2023
 blurb: Essential guides for acing your First LEGO League Challenge team journey.
-preview_image: /public/images/fll-corevalues.png
+preview_image: /public/images/fll-team-image-v1.jpg
 ---
 
-<img src="/fll-team-image-v1.jpg" width="80%">
+<img src="/public/images/fll-team-image-v1.jpg" width="80%">
 
 ## Resources
 
